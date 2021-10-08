@@ -27,6 +27,5 @@ public class Conn {     //创建类Conn
     public static void main(String[] args) {    //主方法
         Conn c = new Conn();    //创建本类对象
         c.getConnection();      //调用连接数据库的方法
-        System.out.println("ok");
     }
 }
