@@ -6,5 +6,6 @@ public class HelloWorld {
     public static void main(String args[]) {
         System.out.println("ok");
         System.out.println("yes");
+        System.out.println("good");
     }
 }
